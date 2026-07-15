@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>Emblème Arma Terra</title>
+  <path fill="#10130f" d="M32 3 57 12v18c0 15-9.4 25.4-25 31C16.4 55.4 7 45 7 30V12L32 3Z"/>
+  <path fill="none" stroke="#e5ddbc" stroke-width="3" d="M32 6 54 14v16c0 13.2-8.1 22.5-22 27-13.9-4.5-22-13.8-22-27V14L32 6Z"/>
+  <path fill="none" stroke="#86c8d7" stroke-width="2.6" d="M17 39c5-5 9-8 15-8 5 0 9 2 15 7M17 31c4-4 9-6 15-6 7 0 12 3 15 7M22 45c3-2 6-3 10-3s7 1 10 3"/>
+  <path fill="#cc7b4c" d="M30.7 14h2.6v13.7h-2.6zM25.1 19.5h13.8v2.6H25.1z"/>
+</svg>
